@@ -1,0 +1,6 @@
+dist/
+node_modules/
+web/
+.idea/
+.DB_store
+yarn-error.log

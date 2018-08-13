@@ -1,0 +1,35 @@
+/*
+ * panel
+ * @Author: hejinming <b84866466@gmail.com>
+ * @Date: 2017-12-18 17:07:42
+ * @since 1.0.0
+ */
+.panel {
+  width: 100%;
+  padding-top: 20 rpx;
+  padding-left: 50 rpx;
+  padding-bottom: 20 rpx;
+  margin-top: 20 rpx;
+  text-align: left;
+  font-size: 12px;
+  border: 1px solid #ccc;
+
+  .title {
+    padding-bottom: 20 rpx;
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+  .info {
+    padding: 15 rpx;
+  }
+
+  .testcounter {
+    position: absolute;
+    margin-top: 15 rpx;
+  }
+
+  .counterview {
+    margin-left: 120 rpx;
+  }
+}

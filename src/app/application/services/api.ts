@@ -1,0 +1,5 @@
+/*
+ * api
+ */
+
+export default {};
