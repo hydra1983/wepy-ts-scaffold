@@ -1,11 +1,11 @@
 declare module 'page' {
-  import BasePage from 'app/presentation/common/basePage';
-  export default BasePage;
+  import Base from 'app/presentation/common/base';
+  export default Base;
 }
 
 declare module 'component' {
-  import BaseComponent from 'app/presentation/common/baseComponent';
-  export default BaseComponent;
+  import Base from 'app/presentation/common/baseComponent';
+  export default Base;
 }
 
 declare module 'wepy' {

@@ -4,6 +4,6 @@
 import wepy from 'wepy';
 import BaseMixin from '../mixins/base';
 
-export default class BasePage extends wepy.page {
+export default class Base extends wepy.page {
   mixins = [BaseMixin];
 }
